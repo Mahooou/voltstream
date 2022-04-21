@@ -146,7 +146,10 @@ h1 span{
 }
 .Sec1Div .CoolSides div img{
     height: 32px;
-    width: 32px;
+    width: 60px;
+    animation-name: spin;
+    animation-duration: 10s;
+    animation-iteration-count: infinite;
 }
 .Sec1Div .Sec1Button{
     padding: 20px 32px;
